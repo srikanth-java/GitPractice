@@ -25,9 +25,4 @@ public class WishGenerator {
 		else
 			return "GN:"+uname;
 	}
-public String welcome()
-	{
-        System.out.println("Generate welcome message");
-	}
-	
 }
