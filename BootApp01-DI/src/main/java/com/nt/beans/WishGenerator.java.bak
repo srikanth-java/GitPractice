@@ -35,4 +35,9 @@ public String welcome()
 	{
         System.out.println("Generate welcome message");
 	}
+
+	public String welcome2()
+	{
+		System.out.println("Generate welcome message");
+	}
 }

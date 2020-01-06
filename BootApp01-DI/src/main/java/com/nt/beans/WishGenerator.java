@@ -33,11 +33,11 @@ public String welcome()
 
 	public String welcome1()
 	{
-        System.out.println("Generate welcome message");
+        System.out.println("Generate welcome1 message");
 	}
 
 	public String welcome2()
 	{
-		System.out.println("Generate welcome message");
+		System.out.println("Generate welcome2 message");
 	}
 }
